@@ -1,0 +1,13 @@
+**/bin/
+.metadata/
+**/screenslicer.config
+**/download_cache*
+**/media_cache*
+jbrowserdriver*.zip
+jBrowserDriver*.zip
+**/*.log.*
+**/pemfile_cached
+target/
+
+.idea
+*.iml

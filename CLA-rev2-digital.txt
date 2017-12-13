@@ -1,0 +1,28 @@
+The maintainers of jBrowserDriver request that You sign a
+Contributor License Agreement ("CLA") regarding any software code and/or
+documentation You desire to contribute to jBrowserDriver ("Contribution").
+
+By submitting your Contribution to jBrowserDriver, You hereby agree to license
+your Contribution under the Apache License, Version 2.0, and to include the
+appropriate copyright notice required by the license.
+
+The following have accepted the terms above as evidenced by their digital
+signatures and information below. If a corporation name is listed, then this
+Contribution is being made on behalf of a corporation.
+
+[Full Name] [GitHub Profile URL] [YYYY-MM-DD] [Corporation Name--if applicable]
+
+Arseniy Skvortsov https://github.com/askvortsov/ 2016-07-19
+Valery Yatsynovich https://github.com/valfirst 2016-08-15
+Michael Pinnegar https://github.com/jazzepi 2016-09-12
+Thomas Cashman https://github.com/tomcashman 2016-09-26
+Alex Luketa https://github.com/aluketa 2016-10-14
+Trask Stalnaker https://github.com/trask 2017-02-08
+Petr Jerabek https://github.com/cikorka 2017-02-10
+Bodo Junglas https://github.com/untoldwind 2017-02-23
+Arya Farzan https://github.com/arya6000 2017-03-18
+Vitali Kepin https://github.com/vkepin 2017-05-16
+D. Hollingsworth https://github.com/hollingsworthd 2017-06-25
+Nicholas DiPiazza https://github.com/nddipiazza/ 2017-08-08
+Alena Liashenka https://github.com/eichhornchen27 2017-12-08
+Uladzislau Arlouski https://github.com/uarlouski 2017-12-11
