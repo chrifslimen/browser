@@ -2,7 +2,7 @@ package com.machinepublishers.glass.ui.monocle;
 
 public class classequipe {
 	public String clas="LAI 3 ISIMA";
-	public String equipe="chrif slimen, wifek racheh , maha ben ghzala";
+	public String equipe="chrif slimen, wifek racheh  , maha ben ghzala";
 	public String getClas() {
 		return clas;
 	}
